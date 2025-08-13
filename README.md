@@ -1,4 +1,4 @@
-# DiscordJS Bot
+# DiscordJS - (OpenMP/SAMP) by Martin
 
 Welcome to the DiscordJS Bot repository! This project is a customizable Discord bot built using Discord.js, designed to enhance your Discord server with various features and commands.
 
