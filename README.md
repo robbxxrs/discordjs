@@ -55,7 +55,7 @@ We welcome contributions! To contribute:
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (if applicable, create one if not present).
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 For questions or support, feel free to open an issue on this repository or contact the maintainer:
