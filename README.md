@@ -25,7 +25,7 @@ Welcome to the DiscordJS Bot repository! This project is a customizable Discord 
    npm install
    ```
 
-3. Create a `.env` file in the root directory and add your bot token:
+3. Addjust `.env` file in the root directory and add your bot token:
    ```
    TOKEN=your_discord_bot_token_here
    ```
