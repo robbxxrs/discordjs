@@ -22,11 +22,16 @@ Welcome to the DiscordJS Bot repository! This project is a customizable Discord 
 
 2. Install dependencies:
    ```bash
-   npm install
+   npm init -y
+   npm install discord.js mysql2 dotenv
    ```
 
-3. Addjust `.env` file in the root directory and add your bot token:
+3. Create `.env` file in the root directory and add your bot token:
    ```
+   DB_HOST=localhost
+   DB_USER=root
+   DB_PASSWORD=
+   DB_NAME=db
    TOKEN=your_discord_bot_token_here
    ```
 
