@@ -55,7 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 For questions or support, feel free to open an issue on this repository or contact the maintainer:
 - GitHub: [robbxxrs](https://github.com/robbxxrs)
-- Discord: (Add your Discord handle if you want)
+- Discord: (unknown)
 
 ## Acknowledgments
 - Thanks to the [Discord.js](https://discord.js.org/) community for the amazing library.
